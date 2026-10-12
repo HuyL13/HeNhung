@@ -1,0 +1,7 @@
+../Core/Src/fusion_logic.c:2:5:NEC_FeedInterval	12
+../Core/Src/fusion_logic.c:31:6:Fusion_Init	2
+../Core/Src/fusion_logic.c:40:6:Fusion_BeginLearning	1
+../Core/Src/fusion_logic.c:45:5:Fusion_Command	12
+../Core/Src/fusion_logic.c:73:6:Fusion_ButtonIncrement	1
+../Core/Src/fusion_logic.c:79:9:Fusion_NextLED	3
+../Core/Src/fusion_logic.c:92:9:Fusion_Digit	4

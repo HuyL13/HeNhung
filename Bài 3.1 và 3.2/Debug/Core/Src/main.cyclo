@@ -1,0 +1,11 @@
+../Core/Src/main.c:123:6:DisplayLEDs	16
+../Core/Src/main.c:216:13:MX_7SegButton_Init	1
+../Core/Src/main.c:255:6:Set7SegDisplayValue	2
+../Core/Src/main.c:267:6:Run7SegDisplay	3
+../Core/Src/main.c:310:13:ProcessButtonB1	5
+../Core/Src/main.c:336:13:RunLabApplication	2
+../Core/Src/main.c:357:5:main	1
+../Core/Src/main.c:441:6:SystemClock_Config	4
+../Core/Src/main.c:494:13:MX_TIM6_Init	3
+../Core/Src/main.c:532:13:MX_GPIO_Init	1
+../Core/Src/main.c:591:6:Error_Handler	1

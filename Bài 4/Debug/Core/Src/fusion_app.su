@@ -1,0 +1,8 @@
+../Core/Src/fusion_app.c:24:13:UART_Queue	24	static
+../Core/Src/fusion_app.c:35:13:UART_Run	4	static
+../Core/Src/fusion_app.c:42:13:BeginLearning	8	static
+../Core/Src/fusion_app.c:47:13:Button_Run	24	static
+../Core/Src/fusion_app.c:66:13:Display_Run	24	static
+../Core/Src/fusion_app.c:77:13:Commands_Run	256	static
+../Core/Src/fusion_app.c:103:6:FusionApp_Init	8	static
+../Core/Src/fusion_app.c:115:6:FusionApp_Run	16	static

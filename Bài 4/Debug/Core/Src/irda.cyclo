@@ -1,0 +1,3 @@
+../Core/Src/irda.c:18:6:IrInit	1
+../Core/Src/irda.c:23:6:IrGetBitTime	5
+../Core/Src/irda.c:39:5:IrTakeCommand	3
